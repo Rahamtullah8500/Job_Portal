@@ -1,0 +1,11 @@
+{
+  "name": "unstop_replicate",
+  "version": "1.0.0",
+  "description": "replicate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abdul",
+  "license": "ISC"
+}
